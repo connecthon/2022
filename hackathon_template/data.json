@@ -33,7 +33,7 @@
                               {"time": "11:00 UTC", "event": "Coffee Break"},
                               {"time": "11:30 UTC", "event": "The hack begins!"},
                               {"time": "12:30 UTC", "event": "Lunch"},
-                              {"time": "14:00 UTC", "event": "Talk"},
+                              {"time": "14:00 UTC", "event": "Talk - Synth*: Domain Randomization for image analysis of clinical and low-field MRI"},
                               {"time": "15:00 UTC", "event": "Hacking time"},
                               {"time": "16:00 UTC", "event": "Coffee Break"},
                               {"time": "16:£0 UTC", "event": "Hacking time"},
@@ -44,7 +44,7 @@
                               {"time": "11:00 UTC", "event": "Coffee Break"},
                               {"time": "12:30 UTC", "event": "Lunch"},
                               {"time": "13:30 UTC", "event": "Hacking time"},
-                              {"time": "15:00 UTC", "event": "MicroClub Talk"},
+                              {"time": "15:00 UTC", "event": "MicroClub Talk - Model-free analysis of anisotropic restricted diffusion and flow in heterogeneous biological tissues"},
                               {"time": "16:30 UTC", "event": "Hacking time!"},
                               {"time": "19:00 UTC", "event": "Social event"}]},
                     {"date": "Friday, May 6",
@@ -52,6 +52,14 @@
                               {"time": "9:30 UTC", "event": "Project Presentations"},
                               {"time": "11:00 UTC", "event": "Wrap-up and goodbye"}]}
                             ],
+    "speakers":[
+        {"name":"Juan Eugenio Iglesias",
+             "affiliation": "Harvard Medical School",
+          "picture": "jei"
+        },
+  {"name":"Daniel Topgaard",
+    "affiliation":"Lund University",
+    "picture":"topgaard"}],
     "location_name": "CUBRIC, Cardiff, United Kingdom",
     "location_url":"https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre",
    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9936.416648140848!2d-3.1846723!3d51.492956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x847f93d00d17fb1e!2sCUBRIC!5e0!3m2!1sit!2suk!4v1647361877342!5m2!1sit!2suk",
